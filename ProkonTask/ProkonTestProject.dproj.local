@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/07 08:42:46.000.506,=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/07 10:07:17.000.178,=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/07 10:20:43.000.771,=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/16 10:31:03.986,=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/16 10:31:22.143,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTestProject.dproj=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/03/16 10:31:30.822,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\MainForm.dfm=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/03/16 10:31:30.822,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\MainForm.pas=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/16 10:46:55.354,=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/16 10:47:11.594,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\MainForm.pas=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/16 10:47:11.594,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\MainForm.dfm=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/03/16 10:55:36.915,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\ProkonTestProject.dproj=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTestProject.dproj</Transaction>
+    <Transaction>2023/03/16 10:56:06.463,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\MainForm.pas=</Transaction>
+    <Transaction>2023/03/16 10:56:33.185,=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit1.pas</Transaction>
+    <Transaction>2023/03/16 10:56:59.276,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\MainForm.dfm=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit1.dfm</Transaction>
+    <Transaction>2023/03/16 10:56:59.276,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\MainForm.pas=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

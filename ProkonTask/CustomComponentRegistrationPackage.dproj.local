@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/16 09:34:36.000.670,=rtl.dcp</Transaction>
+    <Transaction>2023/03/16 09:48:14.000.617,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Package3.dproj=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\CustomComponentRegistrationPackage.dproj</Transaction>
+    <Transaction>2023/03/16 09:53:05.000.613,=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/16 09:53:24.000.093,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ComponentRegistration.pas</Transaction>
+    <Transaction>2023/03/16 09:53:47.000.986,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ComponentRegistration.pas=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\ComponentRegistration.pas</Transaction>
+    <Transaction>2023/03/16 09:58:16.000.768,=designIDE.dcp</Transaction>
+    <Transaction>2023/03/16 09:58:48.000.176,=CustomComponentPackage.dcp</Transaction>
+    <Transaction>2023/03/16 09:59:36.000.305,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\CustomComponentRegistrationPackage.dproj=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\CustomComponentRegistrationPackage.dproj</Transaction>
+    <Transaction>2023/03/16 10:17:51.000.928,=CustomComponentPackage.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

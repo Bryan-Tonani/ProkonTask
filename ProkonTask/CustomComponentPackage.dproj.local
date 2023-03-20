@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/10 15:28:38.000.912,=rtl.dcp</Transaction>
+    <Transaction>2023/03/10 15:29:06.000.506,=rtl.dcp</Transaction>
+    <Transaction>2023/03/10 15:29:19.000.478,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\CustomComponentPackage.dproj=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\Package3.dproj</Transaction>
+    <Transaction>2023/03/13 08:21:04.000.930,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\CustomComponentPackage.dproj=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\CustomComponentPackage.dproj</Transaction>
+    <Transaction>2023/03/13 08:52:45.000.513,=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\PRStringGrid.pas</Transaction>
+    <Transaction>2023/03/13 08:52:45.000.551,=vcl.dcp</Transaction>
+    <Transaction>2023/03/14 11:09:15.000.851,=designide.dcp</Transaction>
+    <Transaction>2023/03/14 16:10:28.000.443,=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit2.pas</Transaction>
+    <Transaction>2023/03/14 16:31:27.000.351,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit2.dfm=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\PRCellEditor.dfm</Transaction>
+    <Transaction>2023/03/14 16:31:27.000.351,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit2.pas=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\PRCellEditor.pas</Transaction>
+    <Transaction>2023/03/14 17:06:12.000.060,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\PRCellEditor.pas=</Transaction>
+    <Transaction>2023/03/14 17:15:09.000.296,=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit2.pas</Transaction>
+    <Transaction>2023/03/14 17:15:28.000.129,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit2.pas=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\frmTPRCellPropertyEditor.pas</Transaction>
+    <Transaction>2023/03/14 17:15:28.000.129,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit2.dfm=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\frmTPRCellPropertyEditor.dfm</Transaction>
+    <Transaction>2023/03/15 08:03:14.000.533,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\frmTPRCellPropertyEditor.pas=</Transaction>
+    <Transaction>2023/03/15 08:03:46.000.329,=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit2.pas</Transaction>
+    <Transaction>2023/03/15 08:04:19.000.804,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit2.dfm=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\CellEditorForm.dfm</Transaction>
+    <Transaction>2023/03/15 08:04:19.000.804,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit2.pas=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\CellEditorForm.pas</Transaction>
+    <Transaction>2023/03/15 08:32:31.000.001,=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit2.pas</Transaction>
+    <Transaction>2023/03/15 08:33:08.000.185,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit2.pas=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\PRCellEditorForm.pas</Transaction>
+    <Transaction>2023/03/15 08:33:08.000.185,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit2.dfm=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\PRCellEditorForm.dfm</Transaction>
+    <Transaction>2023/03/17 12:49:52.000.701,=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit1.pas</Transaction>
+    <Transaction>2023/03/17 12:53:53.000.712,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\CustomCellClasses.pas=C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\Unit1.pas</Transaction>
+    <Transaction>2023/03/18 14:00:13.000.148,C:\Users\tonanib\OneDrive - GWLE\Documents\Embarcadero\Studio\Projects\ProkonTask\PRCellEditorForm.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{A3F18FF9-CF64-4BB7-9775-1A852699A5BA}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="CustomComponentPackage.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="CustomComponentRegistrationPackage.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="CustomComponentPackage">
+        <MSBuild Projects="CustomComponentPackage.dproj"/>
+    </Target>
+    <Target Name="CustomComponentPackage:Clean">
+        <MSBuild Projects="CustomComponentPackage.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="CustomComponentPackage:Make">
+        <MSBuild Projects="CustomComponentPackage.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="CustomComponentRegistrationPackage">
+        <MSBuild Projects="CustomComponentRegistrationPackage.dproj"/>
+    </Target>
+    <Target Name="CustomComponentRegistrationPackage:Clean">
+        <MSBuild Projects="CustomComponentRegistrationPackage.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="CustomComponentRegistrationPackage:Make">
+        <MSBuild Projects="CustomComponentRegistrationPackage.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="CustomComponentPackage;CustomComponentRegistrationPackage"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="CustomComponentPackage:Clean;CustomComponentRegistrationPackage:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="CustomComponentPackage:Make;CustomComponentRegistrationPackage:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
